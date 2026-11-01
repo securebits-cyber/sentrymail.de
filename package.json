@@ -17,7 +17,7 @@
     "@paddle/paddle-js": "^1.6.4",
     "@tailwindcss/vite": "^4.3.2",
     "astro": "^7.3.3",
-    "mermaid": "^11.16.1",
+    "mermaid": "^12.2.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "tailwindcss": "^4.3.2"
