@@ -27,5 +27,8 @@
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "wrangler": "^4.156.0"
+  },
+  "overrides": {
+    "postcss-selector-parser": "6.1.5"
   }
 }
